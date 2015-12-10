@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">EventBusExample - Remote Control</string>
+    <string name="action_settings">Settings</string>
+</resources>
